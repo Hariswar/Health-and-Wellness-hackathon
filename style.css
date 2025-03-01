@@ -1,0 +1,13 @@
+:root{
+  --main-color: #ff6b6b;
+  --secondary-color: #4ecdc4;
+  --background-color: #292f36;
+  --text-color: #f7fff7;
+  --accent-color: #ffe66d;
+  --error-color: #ff6b6b;
+  --success-color: #6bff8d;
+
+  --font-family: 'Press Start 2P', 'Courier New', monospace; 
+  font-weight: 400;
+  
+}
